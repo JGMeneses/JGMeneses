@@ -13,3 +13,7 @@
 [![Skills](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 ### “Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil”. 
+
+## Linguagens mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGMeneses&hide_progress=compact)](https://github.com/anuraghazra/github-readme-stats)
