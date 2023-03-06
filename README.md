@@ -1,6 +1,6 @@
 ### Olá!! Prazer em ter você por aqui  😊
 
-📚 Graduando Análise e desenvolvimento de Sistemas-UFRN                  
+📚 Graduando Análise e desenvolvimento de Sistemas-UFRN <br/> 
 📫 E-mail de contato: joao.meneses.cont@gmail.com
 
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaum.gomezz/)
