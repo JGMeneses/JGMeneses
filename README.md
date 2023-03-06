@@ -1,4 +1,7 @@
-### Olá!! Prazer em ter você por aqui  😊🫶
+### Olá!! Prazer em ter você por aqui  😊
+
+📚 Graduando Análise e desenvolvimento de Sistemas-UFRN
+📫 E-mail de contato: joao.meneses.cont@gmail.com
 
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaum.gomezz/)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
@@ -12,7 +15,6 @@
 [![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Skills](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
-### “Só por que alguma coisa não faz o que você planejou que ela fizesse não quer dizer que ela seja inútil”. 
 
 ## Linguagens mais utilizadas
 
