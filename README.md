@@ -7,7 +7,7 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
-![JGMeneses GitHub stats](https://github-readme-stats.vercel.app/api?username=JGmeneses&show_icons=true&theme=dracula)
+![JGMeneses GitHub stats](https://github-readme-stats.vercel.app/api?username=JGMeneses&show_icons=true&theme=dark)
 
 ## Skills 💻
 [![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -19,4 +19,4 @@
 
 ## Linguagens mais utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGMeneses&hide_progress=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGMeneses&hide_progress=true)]()
