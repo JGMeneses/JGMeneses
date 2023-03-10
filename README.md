@@ -19,4 +19,5 @@
 
 ## Linguagens mais utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGMeneses&hide_progress=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGMeneses&hide_progress=true)](https://github.com/JGMeneses/github-readme-stats)
+
