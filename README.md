@@ -1,4 +1,6 @@
-### Olá!! Prazer em ter você por aqui  😊
+<a href="(https://github.com/JGMeneses)"><img width=100% title="Gomes" alt="Gomes" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Joao%20Meneses&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=20&theme=dark"/></a>
+
+<a href="https://github.com/georgeenriquebravo"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=539BF5&background=FFFFFF00&width=520&height=30&lines=Ol%C3%A1!+Muito+prazer%2C+meu+nome+%C3%A9+Joao+Meneses!)](https://git.io/typing-svg"></a><br/>
 
 📚 Graduando Análise e desenvolvimento de Sistemas-UFRN <br/> 
 📫 E-mail de contato: joao.meneses.cont@gmail.com
@@ -23,9 +25,8 @@
 
 ## Linguagens mais utilizadas
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGMeneses&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/JGMeneses/github-readme-stats)
 
 
-
-
+## Visitas ao perfil
+<p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/JGMeneses/count.svg" /></p>
