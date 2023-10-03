@@ -10,8 +10,8 @@
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaum.gomezz/)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
+<p><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JGMeneses&theme=tokyonight" alt="JGMeneses"/></p>
 
-![JGMeneses GitHub stats](https://github-readme-stats.vercel.app/api?username=JGMeneses&show_icons=true&theme=tokyonight)
 
 ### Skills ⚡
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,10 +26,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
           
 
-## Linguagens mais utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGMeneses&theme=tokyonight&hide_border=false&&layout=Demo)](https://github.com/JGMeneses/github-readme-stats)
-
-## Visitas ao perfil
-<p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/JGMeneses/count.svg" /></p>
 
